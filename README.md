@@ -17,7 +17,7 @@ To use this project, you need to provide your email credentials and the recipien
 
 Copy code
 ```python
-sender_email = "your_email@example.com"
+login = "your_email@example.com"
 password = "your_password"
 receiver_email = "recipient_email@example.com"
 ```
