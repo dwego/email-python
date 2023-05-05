@@ -19,7 +19,7 @@ Copy code
 ```python
 login = "your_email@example.com"
 password = "your_password"
-receiver_email = "recipient_email@example.com"
+mail = input('Enter your email for verification: ')
 ```
 You can then run the main.py file and follow the prompts to enter the subject and body of the email. After sending the email, the program will return a verification code that was sent to the recipient's email address.
 
