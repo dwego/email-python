@@ -6,7 +6,6 @@ Before running the code, make sure you have Python 3 installed on your machine. 
 
 You also need to install the smtplib and ssl libraries, which can be installed via pip:
 
-Copy code
 ```python
 pip install smtplib
 pip install ssl
@@ -15,7 +14,6 @@ pip install ssl
 # Usage
 To use this project, you need to provide your email credentials and the recipient email address in the email_verification.py file:
 
-Copy code
 ```python
 login = "your_email@example.com"
 password = "your_password"
