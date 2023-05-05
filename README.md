@@ -21,7 +21,7 @@ sender_email = "your_email@example.com"
 password = "your_password"
 receiver_email = "recipient_email@example.com"
 ```
-You can then run the email_python.py file and follow the prompts to enter the subject and body of the email. After sending the email, the program will return a verification code that was sent to the recipient's email address.
+You can then run the main.py file and follow the prompts to enter the subject and body of the email. After sending the email, the program will return a verification code that was sent to the recipient's email address.
 
 # Contributing
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Any contributions are welcome!
