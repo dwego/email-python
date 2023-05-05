@@ -1,5 +1,3 @@
-# Python mail
-
 # Python Email Verification System
 This Python project is designed to send an email to a specific email address and return a verification code. The verification code can be used for different purposes such as verifying an account or confirming an action.
 
